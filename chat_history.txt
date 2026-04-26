@@ -1,5 +1,1 @@
-[14:21:53] 65989:Alice: Hello everyone
-[14:22:56] 11789:Bob: hello alice
-[14:23:18] 65989:Alice: hello bob
-[14:23:21] 65989:Alice: how are you
-[14:23:51] 33521:charlie: hello
+
